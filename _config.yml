@@ -16,7 +16,7 @@ phone: +971-54-3003393
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: images/hadi.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+|
 
 content:
   - title: Experience
@@ -70,7 +70,7 @@ content:
           Description of role
       - layout: right
         title: Infosysta
-        sub_title: Solution Consultant
+        sub_title: Solutions Consultant
         caption: Nov 2018 - Feb 2020
         link: Link to company (optional)
         quote: >
