@@ -50,8 +50,8 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://media-exp1.licdn.com/dms/image/C5103AQH2_UjT2gU9jQ/profile-displayphoto-shrink_400_400/0/1524804949699?e=1613001600&v=beta&t=gtk_zf8xcPHGUeYRqFXnJXUlUoi083dri-L0dAcrjxY
-about_content: A Consultant, Team Lead, Developer, and Computer Engineer who is invested in expanding his knowledge in the field, has a passion for seeking new experiences, and wants to challenge himself to push towards a fulfilling and accomplished career. 
+about_profile_image: images/hadi.jpg
+about_content: |A Consultant, Team Lead, Developer, and Computer Engineer who is invested in expanding his knowledge in the field, has a passion for seeking new experiences, and wants to challenge himself to push towards a fulfilling and accomplished career. |
 # this will include new lines to allow paragraphs
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
