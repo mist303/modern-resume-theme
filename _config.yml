@@ -1,16 +1,16 @@
 # Site
-#repository: https://github.com/mist303/modern-resume-theme
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 17
+version: 2
 
 # Personal info
 name: Hadi Al Assaf
 title: IT Consultant and Team Lead
 email: hadi.alassaf@gmail.com
 # email_title: Email (Email title override)
-phone: +971-54-3003393
+phone: 00971-54-3003393
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
