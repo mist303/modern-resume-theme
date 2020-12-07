@@ -83,9 +83,18 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: Digital14
+        sub_title: IT Consultant and Team Lead
+        caption: Jan 2020 - Current
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Infosysta
+        sub_title: Solution Consultant
+        caption: Nov 2018 - Feb 2020
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
