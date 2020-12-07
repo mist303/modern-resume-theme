@@ -1,9 +1,9 @@
 # Site
-#repository: https://github.com/mist303/modern-resume-theme
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 8
+version: 10
 
 # Personal info
 name: Hadi Al Assaf
@@ -16,7 +16,7 @@ phone: +971-54-3003393
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
@@ -52,13 +52,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/hadi.jpg
 about_content: | # this will include new lines to allow paragraphs
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  Hi
-#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#    - Lists
-#    - Tables
-#    - <a href="google.com">Links</a>
-#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Experience
@@ -99,24 +99,6 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-#  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: Project name
-#        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        link_text: Link Text
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
-#          Short overview of the project (optional)
-#        description: | # this will include new lines to allow paragraphs
-#          Description about the work on/with the project
 
 # Footer
 footer_show_references: true
