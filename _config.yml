@@ -1,9 +1,9 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: https://github.com/mist303/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 10
+version: 11
 
 # Personal info
 name: Hadi Al Assaf
@@ -54,17 +54,12 @@ about_profile_image: images/hadi.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Digital14
         sub_title: IT Consultant and Team Lead
         caption: Jan 2020 - Current
