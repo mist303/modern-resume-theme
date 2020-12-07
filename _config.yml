@@ -6,32 +6,32 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Hadi Al Assaf
+title: IT Consultant and Team Lead
+email: hadi.alassaf@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 00971-54-3003393
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+#twitter_username: jekyllrb
+#github_username:  jekyll
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: https://www.instagram.com/hadiomatic/
+linkedin_username: https://www.linkedin.com/in/hadi-al-assaf/
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -50,15 +50,17 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: https://media-exp1.licdn.com/dms/image/C5103AQH2_UjT2gU9jQ/profile-displayphoto-shrink_400_400/0/1524804949699?e=1613001600&v=beta&t=gtk_zf8xcPHGUeYRqFXnJXUlUoi083dri-L0dAcrjxY
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+A Consultant, Team Lead, Developer, and Computer Engineer who is invested in expanding his knowledge in the field, has a passion for seeking new experiences, and wants to challenge himself to push towards a fulfilling and accomplished career. 
+|
 
 content:
   - title: Projects # Title for the section
