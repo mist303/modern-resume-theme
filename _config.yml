@@ -3,7 +3,7 @@ repository: https://github.com/mist303/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 5
+version: 8
 
 # Personal info
 name: Hadi Al Assaf
@@ -16,7 +16,7 @@ phone: +971-54-3003393
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
