@@ -1,9 +1,9 @@
 # Site
-#repository: https://github.com/mist303/modern-resume-theme
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 13
+version: 20
 
 # Personal info
 name: Hadi Al Assaf
