@@ -67,8 +67,12 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
-      - layout: right
+          Working as an IT consultant, integrator, team lead, and Atlassian solutions expert at Digital14 in Abu Dhabi, UAE.
+            ▪ Consulting on IT planning, team processes, change management, and other IT business operations.
+            ▪ Establishing data analytics and visualizations for business operation and project management.
+            ▪ Managing multiple Jira, Confluence, BitBucket and other Atlassian applications.
+            ▪ Achieving many self-driven application integrations and improvements within the teams I have worked with.
+      - layout: left
         title: Infosysta
         sub_title: Solutions Consultant
         caption: Nov 2018 - Feb 2020
@@ -76,7 +80,12 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Working as an Atlassian products consultant and integrator at Infosysta in Dubai, UAE. My scope of work included:
+          ▪ Leading multiple Jira, Confluence, BitBucket and other Atlassian application integrations at large industries in Abu Dhabi.
+          ▪ Setting up requirements collection meetings with different departments and companies.
+          ▪ Performing system assessments and optimizations to Atlassian applications.
+          ▪ Achieving many self-driven application integrations and improvements within the teams I have worked with.
+          ▪ Partaking in many project management reports and updates to management on a weekly basis.
   - title: Education
     layout: list
     content:
@@ -85,10 +94,10 @@ content:
         sub_title: BA in Computer Engineering
         caption: Sep 2011 - Aug 2015
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
+          Received a 4 year Bachelor of Science in Computer Engineering degree with a minor in Computer Science. Part of my study focused on VR, AR, and Cloud technologies.
+        description: #| # this will include new lines to allow paragraphs
+          #Description of qualification
+  - title: A Little More about Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
