@@ -68,7 +68,6 @@ content:
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Working as an IT consultant, integrator, team lead, and Atlassian solutions expert at Digital14 in Abu Dhabi, UAE.
-            - Lists
           - Consulting on IT planning, team processes, change management, and other IT business operations.
           - Establishing data analytics and visualizations for business operation and project management.
           - Managing multiple Jira, Confluence, BitBucket and other Atlassian applications.
@@ -87,15 +86,30 @@ content:
           - Performing system assessments and optimizations to Atlassian applications.
           - Achieving many self-driven application integrations and improvements within the teams I have worked with.
           - Partaking in many project management reports and updates to management on a weekly basis.
+
+      - layout: left
+        title: Etisalat
+        sub_title: Software Engineer & Developer
+        caption: Oct 2015 - Nov 2018
+        link: https://infosysta.com/
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Worked as a software engineer and software developer for several internal and customer facing applications in Etisalat. My work included:
+          - Software engineering of all phases from requirement collection, design, and testing. 
+          - Software development on web, Android, and hybrid platforms from back-end and front-end perspectives. Where:
+          - Maintained constant communication with other teams and stakeholders to plan and achieve goals within tight timelines.
+
+          
   - title: Education
     layout: list
     content:
       - layout: top-left
         title: American Univeristy of Sharjah
-        sub_title: BA in Computer Engineering
+        sub_title: Bachelor of Science in Computer Engineering
         caption: Sep 2011 - Aug 2015
         quote: >
-          Received a 4 year Bachelor of Science in Computer Engineering degree with a minor in Computer Science. Part of my study focused on VR, AR, and Cloud technologies.
+          My studies atained me a minor in Computer Science and focused on VR, AR, and Cloud technologies.
         description: #| # this will include new lines to allow paragraphs
           #Description of qualification
   - title: A Little More about Me
