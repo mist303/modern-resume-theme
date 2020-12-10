@@ -98,7 +98,22 @@ content:
           Worked as a software engineer and software developer for several internal and customer facing applications in Etisalat. My work included:
           - Software engineering of all phases from requirement collection, design, and testing. 
           - Software development on web, Android, and hybrid platforms from back-end and front-end perspectives. Where:
-          - Maintained constant communication with other teams and stakeholders to plan and achieve goals within tight timelines.
+          - Maintained constant communication with other teams and stakeholders to plan and achieve goals within tight timelines.      - layout: left
+        
+      - layout: left
+        title: IBM
+        sub_title: Bluemix Intern
+        caption: Oct 2015 - Nov 2018
+        link: https://infosysta.com/
+        #quote: >
+          #Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Worked as a Bluemix Cloud Development and University Relations Intern. Part of my work involved:
+          - Attending cloud information and development workshops
+          - Developing cloud applications (utilizing AI, social media APIs, web monitoring services,and databases)
+          - Creating demonstration material for academic use
+          - Creating presentations for IBM workshops
+          - Communicating with main development teams in the US and multiple academic leaders in the MENA region
 
           
   - title: Education
