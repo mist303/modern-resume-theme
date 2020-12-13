@@ -16,7 +16,7 @@ phone: 00971-54-3003393
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 #twitter_username: jekyllrb
@@ -124,7 +124,7 @@ content:
         sub_title: Bachelor of Science in Computer Engineering
         caption: Sep 2011 - Aug 2015
         quote: >
-          My studies atained me a minor in Computer Science and focused on VR, AR, and Cloud technologies.
+          My studies also atained me a minor in Computer Science and focused on VR, AR, and Cloud technologies.
         description: #| # this will include new lines to allow paragraphs
           #Description of qualification
   - title: A Little More about Me
