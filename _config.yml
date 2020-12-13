@@ -91,7 +91,7 @@ content:
         title: Etisalat
         sub_title: Software Engineer & Developer
         caption: Oct 2015 - Nov 2018
-        link: https://infosysta.com/
+        link: https://etisalat.ae/
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -104,7 +104,7 @@ content:
         title: IBM
         sub_title: Bluemix Intern
         caption: Oct 2015 - Nov 2018
-        link: https://infosysta.com/
+        link: https://ibm.com/
         #quote: >
           #Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -129,10 +129,28 @@ content:
           #Description of qualification
   - title: A Little More about Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    content: 
+      - layout: top-left
+        description: |
+        **Industry Knowledge**
+        Project Management
+        Consulting
+        Agile Methodologies
+      
+      - layout: top-right
+        description: |
+        **Tools & Technologies Knowledge**
+        AWS Cloud and Web Services 
+        Microsoft Azure
+        Jira
+        Confluence
+        BitBucket
+        RedHat OpenStack
+        Linux
+      
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      
+
 
 # Footer
 footer_show_references: true
